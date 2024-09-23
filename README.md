@@ -27,3 +27,6 @@
 </script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
 ```
+
+文中の数式は、`\\(...\\)`のように囲んでください。
+
