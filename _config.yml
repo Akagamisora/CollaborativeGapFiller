@@ -1,6 +1,4 @@
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-  math_engine_opts:
-    katex: false
 mathjax: true
