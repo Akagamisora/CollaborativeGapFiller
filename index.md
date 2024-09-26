@@ -8,6 +8,16 @@
 - 貢献度が可視化される
 - GitHubの使い方を知れる
 
+## テスト
+
+Here is an inline equation: \\( E = mc^2 \\)
+
+And here is a display equation:
+
+$$
+\int_a^b f(x) dx = F(b) - F(a)
+$$
+
 ## JJ.Sakurai 現代の量子力学
 
 - 第1章 基礎概念
