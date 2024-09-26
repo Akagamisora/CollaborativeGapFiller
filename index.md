@@ -10,7 +10,7 @@
 
 ## テスト
 
-Here is an inline equation: \\( E = mc^2 \\)
+Here is an inline equation: $ E = mc^2 $
 
 And here is a display equation:
 
